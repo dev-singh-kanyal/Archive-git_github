@@ -45,9 +45,11 @@ body {
   }
   .lines {
     border-left: 1px solid #ff0000;
-    border-right: 1px solid #ff0000;
+    border-right: 1px solid #000000;
     width: 2px;
     float: left;
     height: 1600px;
     margin-left: 40px;
+
   }
+  

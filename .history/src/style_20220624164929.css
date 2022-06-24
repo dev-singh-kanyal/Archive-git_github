@@ -51,3 +51,7 @@ body {
     height: 1600px;
     margin-left: 40px;
   }
+  .lines:hover {
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+  }

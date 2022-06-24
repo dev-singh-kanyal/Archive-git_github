@@ -44,10 +44,12 @@ body {
     -o-transition:      all 0.2s;
   }
   .lines {
-    border-left: 1px solid #ff0000;
-    border-right: 1px solid #ff0000;
+    border-left: 1px solid #0800ff;
+    border-right: 1px solid #000000;
     width: 2px;
     float: left;
-    height: 1600px;
+    height: 495px;
     margin-left: 40px;
+
   }
+  
