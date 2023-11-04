@@ -1,5 +1,6 @@
 ## Intro to git and GitHub
-***
+
+**Please note: This repository is now archived and will no longer be updated or maintained.**
 
 Git and GitHub are two technologies that every developer should learn, irrespective of their field.
 
